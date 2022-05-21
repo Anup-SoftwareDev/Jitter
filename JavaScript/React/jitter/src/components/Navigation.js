@@ -30,5 +30,5 @@ const Navigation = ({loggedInUser, activateUser}) => {
 
 }
 
-export default Navigation
+export default Navigation //Navigation
 
